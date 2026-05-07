@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Software Bakery",
-  description: "Fresh backend software",
+  description: "Freshly baked software",
 };
 
 export default function RootLayout({
